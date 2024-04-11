@@ -7,6 +7,11 @@
 ### initialize tsconfig
 `npx tsc --init`
 
+### update tsconfig
+```json
+"outDir": "./dist",
+```
+
 ### make src directory
 `mkdir src`
 
@@ -15,12 +20,10 @@
 "scripts": {
   "build": "tsc"
 }
-
 ```
+
 ### build src
 `npm run build`
 
 ### execute compiled src
 `node dist/index.js`
-
-
