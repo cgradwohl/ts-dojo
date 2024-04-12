@@ -1,0 +1,9 @@
+src/challenges/files/file1.txt: 6
+src/challenges/files/file2.txt: 6
+src/challenges/files/file3.txt: 10
+src/challenges/files/file4.txt: 9
+src/challenges/files/public/document.md: 8
+src/challenges/files/public/index.css: 15
+src/challenges/files/public/index.html: 16
+src/challenges/files/public/README.md: 8
+src/challenges/files/public/script.js: 7
