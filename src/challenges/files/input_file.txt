@@ -1,0 +1,15 @@
+src/challenges/files/file1.txt
+src/challenges/files/file2.txt
+src/challenges/files/file3.txt
+src/challenges/files/file4.txt
+src/challenges/files/file5.txt
+src/challenges/files/secret/secrets.json
+src/challenges/files/public/file1.txt
+src/challenges/files/public/config.json
+src/challenges/files/public/document.md
+src/challenges/files/public/index.css
+src/challenges/files/public/index.html
+src/challenges/files/public/README.md
+src/challenges/files/public/CONTRIBUING.md
+src/challenges/files/public/script.js
+

@@ -1,0 +1,9 @@
+This is a text file with a short line.
+This is another line.
+A longer line to demonstrate varying lengths of lines in the file.
+This line is even longer and continues for a bit more to show a longer line length.
+This is a short line again.
+This is an additional line.
+Another line here.
+A long line to show variation in line length in this file.
+A short line to end the file.
